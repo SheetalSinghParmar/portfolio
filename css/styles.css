@@ -566,3 +566,7 @@ body {
   height: 50px;
   width: 50px;
 }
+
+.cert-name {
+  text-align: center;
+}
