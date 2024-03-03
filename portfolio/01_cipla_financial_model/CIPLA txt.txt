@@ -1,0 +1,7 @@
+Title - Cipla Limited - Financial Modelling and Valuation Report
+
+Description - Financial modeling and valuation are essential processes in analyzing any company or projecting its future financial performance. They are instrumental in determining whether a company should raise capital or expand its business organically or through acquisitions.
+
+In this project, I developed a financial model and conducted a valuation of Cipla Limited. The analysis was based on various factors including DCF modeling, historical financial statement analysis, Dupont analysis, ratio analysis, forecasted growth, WACC calculation, beta calculation, ROIC calculation, PV of FCFF calculation, comparable company valuation, value-added risk analysis using historical approach, value-added risk analysis using Monte Carlo simulation, and Football Field Analysis.
+
+Key Objective of the project - The primary objective of the project is to forecast the company's growth for the next five years while also evaluating its financial performance through a range of valuation methods.
