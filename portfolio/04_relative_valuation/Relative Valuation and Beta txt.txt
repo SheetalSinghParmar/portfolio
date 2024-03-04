@@ -1,0 +1,13 @@
+Title - Relative Valuation and Beta Calculations
+
+Description -
+
+Relative valuation also called valuation using multiples is the notion of comparing the price of an asset to the market value of similar assets. In the field of securities investment, the idea has led to important practical tools, which could presumably spot pricing anomalies.
+
+A stock's beta is equal to the covariance of the stock's returns and its benchmark index's returns over a particular time period, divided by the variance of the index's returns over that period. As a formula, β = covariance(stock returns, index returns) / variance(index returns).
+
+The beta calculation is used to help investors understand whether a stock moves in the same direction as the rest of the market. It also provides insights into how volatile–or how risky–a stock is relative to the rest of the market.
+
+Key objective of this project - 
+
+The main goal of this project was to gain a thorough understanding of relative valuation methods and the calculation of beta for different companies using Excel spreadsheets. This knowledge was essential for incorporating beta into the discounted cash flow (DCF) analysis or terminal growth calculations for companies.

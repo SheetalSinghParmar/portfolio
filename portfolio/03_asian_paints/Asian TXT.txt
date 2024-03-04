@@ -1,0 +1,11 @@
+Title - Asian Paints - DCF Modelling
+
+Descirption - 
+
+Discounted cash flow (DCF) valuation is a financial modeling technique used to assess the viability of an investment by analyzing future cash flows. This method operates on the premise that a company's worth is contingent upon its ability to generate cash flows for investors in the future.
+
+In this project, I conducted a DCF valuation of Asian Paints. This involved projecting revenue and cost estimates, determining discount rates, calculating terminal value, and establishing growth rates based on data extracted from Asian Paints' annual report.
+
+Key Objective - 
+
+The primary objective of this report was twofold: to evaluate the current state of the company comprehensively and to ascertain the investment's value based on anticipated future cash flows.

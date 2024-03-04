@@ -1,0 +1,7 @@
+Title - Value at Risk (VAR) Calculations
+
+Description - 
+
+Value at risk is a measure of the risk of loss of investment/Capital. It estimates how much a set of investments might lose, given normal market conditions, in a set time period such as a day.
+
+Key Objective - The primary goal of this project is to gain practical experience in calculating Value at Risk (VaR) for multiple companies, aiming to assess potential financial losses within a firm, portfolio, or position across a defined time period.

@@ -1,0 +1,11 @@
+Title - Nestle India - One Page Profile
+
+Description - 
+
+For this project, I compiled a one-page company profile summarizing essential information about the company, including a brief overview, key financial metrics, financial ratios, shareholding pattern, managerial remuneration, capital structure, five-year volume and historical prices, and recent significant updates sourced from the company's Annual Report.
+
+Using data from the Annual Report, I calculated various key financial metrics, financial ratios, and managerial remuneration of major shareholders, in addition to highlighting recent corporate actions undertaken by the company.
+
+Key Objective of the project - 
+
+The primary objective of this one-page profile was to condense all important financial indicators of the company into a single page, providing a comprehensive snapshot of its current state.
